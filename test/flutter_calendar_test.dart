@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_calendar/easy_flutter_calendar.dart';
+import 'package:easy_flutter_calendar/easy_flutter_calendar.dart';
 
 void main() {
   test('adds one to input values', () {

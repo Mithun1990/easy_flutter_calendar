@@ -1,8 +1,8 @@
-name: flutter_calendar
+name: easy_flutter_calendar
 description: A new Flutter custom calendar for both Android and IOS operating system.
 version: 1.0.0
 author: Forhad Naim <developermithun1990@gmail.com>
-homepage: https://github.com/Mithun1990/flutter_calendar
+homepage: https://github.com/Mithun1990/easy_flutter_calendar
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

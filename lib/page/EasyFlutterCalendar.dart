@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_calendar/model/Month.dart';
-import 'package:flutter_calendar/model/Week.dart';
-import 'package:flutter_calendar/model/WeekData.dart';
+import 'package:easy_flutter_calendar/model/Month.dart';
+import 'package:easy_flutter_calendar/model/Week.dart';
+import 'package:easy_flutter_calendar/model/WeekData.dart';
 import 'package:intl/intl.dart';
 
 class EasyFlutterCalendar extends StatefulWidget {

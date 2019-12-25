@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_calendar/model/Week.dart';
+import 'package:easy_flutter_calendar/model/Week.dart';
 
 class WeekData {
   WeekData(this.weekTitle, this.weekDay, this.weekId);
